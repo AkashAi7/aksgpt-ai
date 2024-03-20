@@ -1,0 +1,9 @@
+.idea
+__debug*
+.DS_Store
+aksgpt*
+!charts/aksgpt
+*.vscode
+dist/
+
+bin/
